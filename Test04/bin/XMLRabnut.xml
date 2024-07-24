@@ -1,0 +1,30 @@
+<Queries>
+  <Query>
+    <Day>שני</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ד</Year>
+    <Result> בשני בשבת   יום אחדלירח  תשרי </Result>
+  </Query>
+  <Query>
+    <Day>שני</Day>
+    <DayMonth>3</DayMonth>
+    <Month>מרחשוון</Month>
+    <Year>תשפ"ו</Year>
+    <Result> בשני בשבת   שלשה ימיםלירח  מרחשון </Result>
+  </Query>
+  <Query>
+    <Day>שני</Day>
+    <DayMonth>10</DayMonth>
+    <Month>אייר</Month>
+    <Year>תשפ"ח</Year>
+    <Result> בשני בשבת  עשרה ימיםלירח  אייר </Result>
+  </Query>
+  <Query>
+    <Day>חמישי</Day>
+    <DayMonth>4</DayMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ו</Year>
+    <Result> בחמישי בשבת  ארבעה ימים לירח  שבט </Result>
+  </Query>
+</Queries>

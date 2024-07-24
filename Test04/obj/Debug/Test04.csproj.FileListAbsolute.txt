@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Test04\obj\Debug\Test04.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Test04\obj\Debug\KodKod.Form1.resources
+C:\Users\admin\source\repos\Test04\obj\Debug\Test04.Properties.Resources.resources
+C:\Users\admin\source\repos\Test04\obj\Debug\Test04.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Test04\obj\Debug\Test04.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Test04\bin\Debug\Test04.exe.config
+C:\Users\admin\source\repos\Test04\bin\Debug\Test04.exe
+C:\Users\admin\source\repos\Test04\bin\Debug\Test04.pdb
+C:\Users\admin\source\repos\Test04\obj\Debug\Test04.exe
+C:\Users\admin\source\repos\Test04\obj\Debug\Test04.pdb
