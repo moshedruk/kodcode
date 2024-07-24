@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\bin\Debug\GuestsLshbat.exe.config
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\bin\Debug\GuestsLshbat.exe
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\bin\Debug\GuestsLshbat.pdb
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\Host_shbat.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\GuestsLshbat.Form1.resources
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\GuestsLshbat.Properties.Resources.resources
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\Host_shbat.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\Host_shbat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\GuestsLshbat.exe
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\GuestsLshbat.pdb
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\GuestsLshbat.DisplyTableHost.resources
+C:\Users\admin\Desktop\dot.net\exercises\GuestsLshbat\obj\Debug\GuestsLshbat.Form2.resources

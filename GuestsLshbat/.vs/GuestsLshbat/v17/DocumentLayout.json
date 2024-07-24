@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|c:\\users\\admin\\desktop\\dot.net\\exercises\\guestslshbat\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|solutionrelative:maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\ConnectDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|solutionrelative:ConnectDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\displytablehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|solutionrelative:displytablehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\DisplyTableHost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538C8479-0ADE-4036-92DC-9F19E4071AA8}|Host_shbat.csproj|solutionrelative:DisplyTableHost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplyTableHost.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\DisplyTableHost.cs",
+              "RelativeDocumentMoniker": "DisplyTableHost.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\DisplyTableHost.cs",
+              "RelativeToolTip": "DisplyTableHost.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:22:53.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplyTableHost.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\DisplyTableHost.cs",
+              "RelativeDocumentMoniker": "DisplyTableHost.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\DisplyTableHost.cs [Design]",
+              "RelativeToolTip": "DisplyTableHost.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:21:46.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maneger.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\Maneger.cs",
+              "RelativeDocumentMoniker": "Maneger.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\Maneger.cs",
+              "RelativeToolTip": "Maneger.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:51:43.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "ConnectDB.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\ConnectDB.cs",
+              "RelativeToolTip": "ConnectDB.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwEsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:42:13.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:23:01.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\dot.net\\exercises\\GuestsLshbat\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:04:35.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

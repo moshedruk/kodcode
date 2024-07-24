@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\dot.net\TestWeek3\bin\Debug\TestWeek3.exe.config
+C:\Users\admin\Desktop\dot.net\TestWeek3\bin\Debug\TestWeek3.exe
+C:\Users\admin\Desktop\dot.net\TestWeek3\bin\Debug\TestWeek3.pdb
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.Form1.resources
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.FormCurses.resources
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.Properties.Resources.resources
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.TableCurses.resources
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.Teachers.resources
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.Title.resources
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.exe
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.pdb
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.newStudent.resources
+C:\Users\admin\Desktop\dot.net\TestWeek3\obj\Debug\TestWeek3.Students.resources

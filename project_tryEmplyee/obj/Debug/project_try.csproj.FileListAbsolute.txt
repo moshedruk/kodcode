@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\dot.net\project_try\bin\Debug\project_try.exe.config
+C:\Users\admin\Desktop\dot.net\project_try\bin\Debug\project_try.exe
+C:\Users\admin\Desktop\dot.net\project_try\bin\Debug\project_try.pdb
+C:\Users\admin\Desktop\dot.net\project_try\obj\Debug\project_try.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dot.net\project_try\obj\Debug\project_try.Form1.resources
+C:\Users\admin\Desktop\dot.net\project_try\obj\Debug\project_try.Properties.Resources.resources
+C:\Users\admin\Desktop\dot.net\project_try\obj\Debug\project_try.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dot.net\project_try\obj\Debug\project_try.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dot.net\project_try\obj\Debug\project_try.exe
+C:\Users\admin\Desktop\dot.net\project_try\obj\Debug\project_try.pdb
+C:\Users\admin\Desktop\dot.net\project_try\obj\Debug\project_try.popup.resources

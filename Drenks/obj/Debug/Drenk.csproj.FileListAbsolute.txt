@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Drenk\bin\Debug\Drenk.exe.config
+C:\Users\admin\source\repos\Drenk\bin\Debug\Drenk.exe
+C:\Users\admin\source\repos\Drenk\bin\Debug\Drenk.pdb
+C:\Users\admin\source\repos\Drenk\obj\Debug\Drenk.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Drenk\obj\Debug\Drenk.Form1.resources
+C:\Users\admin\source\repos\Drenk\obj\Debug\Drenk.Properties.Resources.resources
+C:\Users\admin\source\repos\Drenk\obj\Debug\Drenk.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Drenk\obj\Debug\Drenk.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Drenk\obj\Debug\Drenk.exe
+C:\Users\admin\source\repos\Drenk\obj\Debug\Drenk.pdb

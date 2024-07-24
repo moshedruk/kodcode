@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\dot.net\Gest\bin\Debug\Gest.exe.config
+C:\Users\admin\Desktop\dot.net\Gest\bin\Debug\Gest.exe
+C:\Users\admin\Desktop\dot.net\Gest\bin\Debug\Gest.pdb
+C:\Users\admin\Desktop\dot.net\Gest\obj\Debug\Gest.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dot.net\Gest\obj\Debug\Gest.Form1.resources
+C:\Users\admin\Desktop\dot.net\Gest\obj\Debug\Gest.Properties.Resources.resources
+C:\Users\admin\Desktop\dot.net\Gest\obj\Debug\Gest.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dot.net\Gest\obj\Debug\Gest.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dot.net\Gest\obj\Debug\Gest.exe
+C:\Users\admin\Desktop\dot.net\Gest\obj\Debug\Gest.pdb
+C:\Users\admin\Desktop\dot.net\Gest\obj\Debug\Gest.frmCatgory.resources

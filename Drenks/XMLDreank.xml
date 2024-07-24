@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drinks>
+  <Drink>
+    <Name>קפה שוויצרי</Name>
+    <Suger>1.5</Suger>
+    <Milk>1.5</Milk>
+    <Cofee>1.5</Cofee>
+    <Cacou>1.5</Cacou>
+    <Price>15</Price>
+  </Drink>
+</Drinks>
