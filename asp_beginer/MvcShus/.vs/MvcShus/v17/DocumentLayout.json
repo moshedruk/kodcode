@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\models\\frinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:models\\frinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\views\\home\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:views\\home\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\mvcshus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E9557A-EE66-4E4C-99F0-7DD0FC4B9BB5}|MvcShus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T14:44:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNew.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\AddNew.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AddNew.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\AddNew.cshtml",
+              "RelativeToolTip": "Views\\Home\\AddNew.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T13:07:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T11:09:51.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:28:27.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frinds.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Models\\Frinds.cs",
+              "RelativeDocumentMoniker": "Models\\Frinds.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Models\\Frinds.cs",
+              "RelativeToolTip": "Models\\Frinds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:55:58.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T08:40:26.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T08:25:49.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:15:19.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\asp_begin\\MvcShus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:15:10.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

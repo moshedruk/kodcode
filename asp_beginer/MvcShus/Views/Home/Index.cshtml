@@ -1,0 +1,30 @@
+﻿@model IEnumerable<MvcShus.Models.Frinds>
+@{
+    ViewData["Title"] = "frinds Table";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">@ViewData["Title"]</h2>
+    <table class="table">
+        <thead>
+            <tr>                
+                <th> Name</th>
+                <th>Age</th>
+                <th>id</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><a href="/Home/Details/@item._name">@item._name</a></td>
+                    <td>@item._age</td>
+                    <td> <a class="btn btn-warning" asp-controller="Home" asp-action="Edit" asp-route-id="@item._id">Edit</a>  @item._id</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("AddNew", "Home")'">Add</button>
+    
+
+</div>

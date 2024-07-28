@@ -1,0 +1,31 @@
+﻿@model MvcShus.Models.Frinds
+
+@{
+    ViewData["Title"] = "Edit Frinds";
+}
+
+<h2> @ViewData["Title"]</h2>
+
+<form asp-action="Update" method="Post">
+   
+
+    <div class="form-group">
+        <label asp-for="_name" class="control-label">Name</label>
+        <input asp-for="_name" class="form-control" />
+        <span asp-validation-for="_name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="_age" class="control-label">Age</label>
+        <input asp-for="_age" class="form-control" />
+        <span asp-validation-for="_age" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="_id" class="control-label">ID Number</label>
+        <input asp-for="_id" class="form-control" readonly />
+        <span asp-validation-for="_id" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+   </form>

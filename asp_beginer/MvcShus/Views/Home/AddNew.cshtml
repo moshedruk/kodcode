@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model MvcShus.Models.Frinds
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h2 class="mb-4 text-center">Add New frind</h2>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" method="post">
+                        <div class="form-group">
+                            <label asp-for="_name" class="control-label">Name</label>
+                            <input asp-for="_name" class="form-control" />
+                            <span asp-validation-for="_name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="_age" class="control-label">Age</label>
+                            <input asp-for="_age" class="form-control" />
+                            <span asp-validation-for="_age" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="_id" class="control-label">ID Number</label>
+                            <input asp-for="_id" class="form-control" />
+                            <span asp-validation-for="_id" class="text-danger"></span>
+                        </div>
+                        <div class="form-group text-center">
+                            <input type="submit" value="Add Person" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
