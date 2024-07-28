@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_begin\\MvcShus\\MvcShus.csproj": {}
+    "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_beginer\\MvcShus\\MvcShus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_begin\\MvcShus\\MvcShus.csproj": {
+    "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_beginer\\MvcShus\\MvcShus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_begin\\MvcShus\\MvcShus.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_beginer\\MvcShus\\MvcShus.csproj",
         "projectName": "MvcShus",
-        "projectPath": "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_begin\\MvcShus\\MvcShus.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_beginer\\MvcShus\\MvcShus.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_begin\\MvcShus\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_beginer\\MvcShus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PgLxkXeC10s=",
+  "dgSpecHash": "4QoF2CGNwpA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_begin\\MvcShus\\MvcShus.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\פרויקטים\\asp_beginer\\MvcShus\\MvcShus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
