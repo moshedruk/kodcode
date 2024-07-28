@@ -11,7 +11,7 @@
                 <th> Name</th>
                 <th>Age</th>
                 <th>id</th>
-                <th>delete</th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -20,8 +20,10 @@
                 <tr>
                     <td><a href="/Home/Details/@item._name">@item._name</a></td>
                     <td>@item._age</td>
-                    <td> <a class="btn btn-warning" asp-controller="Home" asp-action="Edit" asp-route-id="@item._id">Edit</a>  @item._id</td>
-                    <td> <a class="btn btn-warning" asp-controller="Home" asp-action="Delete" asp-route-id="@item._id">delete</a> </td>
+                    <td>   @item._id</td>
+                    <td> <a class="btn btn-warning" asp-controller="Home" asp-action="Delete" asp-route-id="@item._id">delete</a> 
+                          <a class="btn btn-warning" asp-controller="Home" asp-action="Edit" asp-route-id="@item._id">Edit</a> 
+                     </td>
                 </tr>
             }
         </tbody>
