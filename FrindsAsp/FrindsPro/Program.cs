@@ -1,7 +1,13 @@
+using FrindsPro.DAL;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+string? connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<FrindsDBcontext>(options => options.UseSqlServer
+    (connectionString));
 
 var app = builder.Build();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrindsPro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b4784efd803978e0566aa16fc414244e580c842")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc6c399beac0bf2799fd9e1113592c086f6d73a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrindsPro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrindsPro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

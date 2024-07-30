@@ -3,12 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
 namespace FrindsPro.DAL
 {
-    public class DBcontext : DbContext
+    public class FrindsDBcontext : DbContext
     {
-        public DBcontext(string connectionString) : base (Getoptions(connectionString))
+        public FrindsDBcontext(DbContextOptions<FrindsDBcontext> options) : base(options)
         {
-            Database.EnsureCreated();
-            if (Frinds.Count() == 0)
+           if( Database.EnsureCreated() && Frinds.Count() == 0)             
             {
                 Seed();
             }

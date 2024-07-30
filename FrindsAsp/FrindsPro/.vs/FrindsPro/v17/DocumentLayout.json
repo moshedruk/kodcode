@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\models\\classfrind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:models\\classfrind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\controllers\\frindscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:controllers\\frindscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\frinds\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\frinds\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\controllers\\frindscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:controllers\\frindscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\frinds\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\frinds\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\frinds\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\frinds\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\models\\classfrind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:models\\classfrind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|c:\\users\\admin\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\frindsasp\\frindspro\\dal\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6365E01F-CA49-41BF-B52A-361D0C5FB5A1}|FrindsPro.csproj|solutionrelative:dal\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +62,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrindsController1.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Controllers\\FrindsController1.cs",
-              "RelativeDocumentMoniker": "Controllers\\FrindsController1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Controllers\\FrindsController1.cs",
-              "RelativeToolTip": "Controllers\\FrindsController1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T14:34:23.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Frinds\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Frinds\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Frinds\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Frinds\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T13:39:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Frinds\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Frinds\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Frinds\\Details.cshtml",
+              "RelativeToolTip": "Views\\Frinds\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T13:19:16.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Frinds\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Frinds\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Frinds\\Index.cshtml",
+              "RelativeToolTip": "Views\\Frinds\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T13:15:46.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T13:11:25.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T12:34:54.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:31:27.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrindsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Controllers\\FrindsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FrindsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Controllers\\FrindsController.cs",
+              "RelativeToolTip": "Controllers\\FrindsController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAwHQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T09:33:24.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -79,85 +178,19 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T07:32:31.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T07:32:31.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "Views\\Home\\Edit.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAADwvzkAAABYAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T14:13:41.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "Views\\Home\\Details.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T12:54:41.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T12:24:15.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\DAL\\Data.cs",
-              "RelativeDocumentMoniker": "DAL\\Data.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\DAL\\Data.cs",
-              "RelativeToolTip": "DAL\\Data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:41:28.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DBcontext.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\DAL\\DBcontext.cs",
-              "RelativeDocumentMoniker": "DAL\\DBcontext.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\DAL\\DBcontext.cs",
-              "RelativeToolTip": "DAL\\DBcontext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAUwCIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:07:45.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T06:47:51.599Z",
               "EditorCaption": ""
             },
             {
@@ -168,14 +201,14 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T06:46:18.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Models\\Image.cs",
               "RelativeDocumentMoniker": "Models\\Image.cs",
@@ -183,12 +216,11 @@
               "RelativeToolTip": "Models\\Image.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T06:19:56.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T06:19:56.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "ClassFrind.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\FrindsAsp\\FrindsPro\\Models\\ClassFrind.cs",
               "RelativeDocumentMoniker": "Models\\ClassFrind.cs",

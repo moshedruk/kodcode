@@ -26,6 +26,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\admin\Desktop\פרויקטים\FrindsAsp\FrindsPro
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/admin/Desktop/פרויקטים/FrindsAsp/FrindsPro/Views/Frinds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJpbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/פרויקטים/FrindsAsp/FrindsPro/Views/Frinds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJpbmRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/פרויקטים/FrindsAsp/FrindsPro/Views/Frinds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJpbmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/פרויקטים/FrindsAsp/FrindsPro/Views/Frinds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJpbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/admin/Desktop/פרויקטים/FrindsAsp/FrindsPro/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
