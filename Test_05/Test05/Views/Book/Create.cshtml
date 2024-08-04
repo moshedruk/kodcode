@@ -1,0 +1,97 @@
+﻿@model Test05.viewsModel.modelBookShelflibrary
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ClassFrind</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="book.Title" class="control-label"></label>
+                <input asp-for="book.Title" class="form-control" />
+                <span asp-validation-for="book.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="book.height" class="control-label"></label>
+                <input asp-for="book.height" class="form-control" />
+                <span asp-validation-for="book.height" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="book.width" class="control-label"></label>
+                <input asp-for="book.width" class="form-control" />
+                <span asp-validation-for="book.width" class="text-danger"></span>
+            </div>
+
+            <h4>Grup</h4>
+            @if (Model.library != null && Model.library.Any())
+            {
+                <div class="form-group">
+                    <label asp-for="SelectedlibraryId" class="control-label">Select Group</label>
+                    <select asp-for="SelectedlibraryId" class="form-control" asp-items="@(new SelectList(Model.library, "Id", "Name"))">
+                        <option value="">-- Select a group --</option>
+                    </select>
+                    <span asp-validation-for="SelectedlibraryId" class="text-danger"></span>
+                </div>
+            }
+            else
+            {
+                <div class="form-group">
+                    <p class="text-warning">No groups available</p>
+                </div>
+            }
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <div class="col-md-4">
+        <form asp-action="Createset" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>           
+            
+            <div class="form-group">
+                <label asp-for="sizeset" class="control-label"></label>
+                <input asp-for="sizeset" class="form-control" />
+                <span asp-validation-for="sizeset" class="text-danger"></span>
+            </div>
+            <h4>Grup</h4>
+            @if (Model.library != null && Model.library.Any())
+            {
+                <div class="form-group">
+                    <label asp-for="SelectedlibraryId" class="control-label">Select Group</label>
+                    <select asp-for="SelectedlibraryId" class="form-control" asp-items="@(new SelectList(Model.library, "Id", "Name"))">
+                        <option value="">-- Select a group --</option>
+                    </select>
+                    <span asp-validation-for="SelectedlibraryId" class="text-danger"></span>
+                </div>
+            }
+            else
+            {
+                <div class="form-group">
+                    <p class="text-warning">No groups available</p>
+                </div>
+            }
+            <div class="form-group">
+                <input type="submit" value="Create set" class="btn btn-primary" />
+            </div>          
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
