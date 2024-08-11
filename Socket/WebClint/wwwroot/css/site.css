@@ -1,0 +1,156 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: black;
+    width: 90%; /* ???? ????? */
+    height: 90%;
+    align-items:center;
+}
+
+.grid-container {    
+    display: grid;
+    margin-left:auto;
+    grid-template-columns: repeat(2, 1fr); /* ??? ?????? */
+    grid-template-rows: repeat(2, 1fr); /* ??? ????? */
+    gap: 10px; /* ????? ??? ???????? */
+    width: 80%; /* ???? ????? */
+    height: 250px;
+    border: 1px solid #000; /* ???? ????? */
+}
+
+.grid-item {
+    border:hidden;
+    background-color:aliceblue;
+    align-items: baseline;
+    justify-content: center;
+    width: 100%; /* ????? ?????? ????? ??? */
+    height: 100%; /* ????? ?????? ????? ??? */
+}
+h2 {
+    color: red;
+    
+}
+
+form {
+    margin-left: 56%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 400px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+#response {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: #333;
+}
+#time {
+    background-color: white;
+   
+    color: #333;
+}
+#air {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: #333;
+}
+#ccc {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: #333;
+}
+#res {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: #333;
+}
+
+.missile {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+    .missile:last-child {
+        border-bottom: none;
+    }
+
+.missile-name {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.missile-speed {
+    color: #555;
+}
+
+.missile-status {
+    color: #888;
+    font-style: italic;
+}
+
