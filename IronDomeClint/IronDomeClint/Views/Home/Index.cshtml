@@ -1,0 +1,22 @@
+﻿﻿@{
+    ViewData["Title"] = "WebSocket Test";
+}
+
+<h2>Iron Dome</h2>
+
+<form id="webSocketForm">
+
+    <button type="button" onclick="sendJsonFile()">Read JSON</button>
+    <button type="button" onclick="addMissileName()">Start an attack</button>
+</form>
+
+<div class="grid-container">
+    <div class="grid-item" id="responsemissile"></div>
+    <div class="grid-item" id="air">
+    </div>
+    <div class="grid-item" id="res">status missile...</div>
+    <div class="grid-item" id="time">status missile...</div>
+</div>
+
+<!-- Include the external JavaScript file -->
+<script src="~/js/webSocketClient.js"></script>

@@ -1,0 +1,59 @@
+
+   [
+    {
+      "name": "Tomahawk",
+      "speed": "550 km/h",
+      "muss": 500,
+      "origin": {
+        "x": 34,
+        "y": -118,
+        "z": 0
+      },
+      "ungle": {
+        "x": 34,
+        "y": -118,
+        "z": 0
+      },
+      "time": 3,
+      "damage": 100
+    },
+    {
+      "name": "Scud",
+      "speed": "1,000 km/h",
+      "muss": 700,
+      "origin": {
+        "x": 35,
+        "y": -119,
+        "z": 0
+      },
+      "ungle": {
+        "x": 35,
+        "y": -119,
+        "z": 0
+      },
+      "time": 15,
+      "damage": 100
+    },
+    {
+      "name": "Minuteman",
+      "speed": "8,000 km/h",
+      "muss": 1000,
+      "origin": {
+        "x": 36,
+        "y": -120,
+        "z": 0
+      },
+      "ungle": {
+        "x": 36,
+        "y": -120,
+        "z": 0
+      },
+      "time": 20,
+      "damage": 100
+    }
+  ]
+
+
+
+
+
